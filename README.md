@@ -5,9 +5,9 @@
 This project involved developing an interactive Power BI dashboard designed to provide comprehensive insights into product sales performance and customer retention. The analysis aims to empower data-driven decision-making by highlighting key trends, identifying top-performing products and customer segments, and revealing opportunities for strategic improvements in sales and marketing efforts.
 
 ## Data Source
-The dataset for this analysis was curated from a Microsoft SQL database, ensuring data integrity and consistency. The SQL script used for data extraction and transformation (as previously documented in SQLQuery3.sql) leveraged advanced SQL techniques, including Window functions, Common Table Expressions (CTEs), and subqueries to prepare the data for robust analysis.
-The primary tables used in the dashboard are the customer and product report views created in this SQL project. The [dataset link is here](https://github.com/Linconnaire/SQL-Advanced-Data-Analytics-Bike-Store-)
-Also, the csv file is in the file section.
+- The dataset for this analysis was curated from a Microsoft SQL database, ensuring data integrity and consistency. The SQL script used for data extraction and transformation (as previously documented in SQLQuery3.sql) leveraged advanced SQL techniques, including Window functions, Common Table Expressions (CTEs), and subqueries to prepare the data for robust analysis.
+- The primary tables used in the dashboard are the customer and product report views created in this SQL project. The [dataset link is here.](https://github.com/Linconnaire/SQL-Advanced-Data-Analytics-Bike-Store-)
+- Also, both customer and product tables' csv files are in the file section.
 
 ## Tools Used
 - Microsoft SQL Server: For storage, management, and initial data preparation.
