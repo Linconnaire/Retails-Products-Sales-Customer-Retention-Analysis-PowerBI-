@@ -1,0 +1,2 @@
+# Retails-Products-Sales-Customer-Retention-Analysis-PowerBI-
+This project involved the development of an interactive Power BI dashboard designed to provide comprehensive insights into product sales performance and customer retention. To analyze sales performance, product profitability, and customer retention metrics to identify behavioral patterns, improve sales strategy, and enhance customer lifetime value.
