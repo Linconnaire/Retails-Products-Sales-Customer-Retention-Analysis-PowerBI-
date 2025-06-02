@@ -6,9 +6,10 @@ This project involved developing an interactive Power BI dashboard designed to p
 
 ## Data Source
 The dataset for this analysis was curated from a Microsoft SQL database, ensuring data integrity and consistency. The SQL script used for data extraction and transformation (as previously documented in SQLQuery3.sql) leveraged advanced SQL techniques, including Window functions, Common Table Expressions (CTEs), and subqueries to prepare the data for robust analysis.
+The primary tables used in the dashboard are the customer and product report views created in this SQL project. The [dataset link is here](https://github.com/Linconnaire/SQL-Advanced-Data-Analytics-Bike-Store-)
 
 ## Tools Used
-- Microsoft SQL Server: For data storage, management, and initial data preparation.
+- Microsoft SQL Server: For storage, management, and initial data preparation.
 
 - Power BI: For data modelling, analysis, and interactive dashboard visualisation.
 
@@ -35,27 +36,27 @@ The dataset for this analysis was curated from a Microsoft SQL database, ensurin
 - Segment Analysis: VIP customers and regular customers had equal purchase quantities (9K), but new customers had higher quantities sold compared to others.
 
 ### Actionable Insight:
-Older age groups and VIP segments are more valuable targets for loyalty campaigns and premium bundles for them.
+- Older age groups and VIP segments are more valuable targets for loyalty campaigns and premium bundles for them.
 
 ## 🛒 Product Performance Insights:
 ![](d2.png)
 
 ### Top Performers:
 
-Mountain-200 and Road-150 bikes dominated revenue, each contributing over $1M+.
+- Mountain-200 and Road-150 bikes dominated revenue, each contributing over $1M+.
 
 ### Subcategory Revenue Share:
 
-Road Bikes (49.47%) and Mountain Bikes (33.89%) were the major revenue contributors.
+- Road Bikes (49.47%) and Mountain Bikes (33.89%) were the major revenue contributors.
 
 ### Profitability:
 
-Highest profit margins from Road Bikes (45.37%) and Mountain Bikes (37.25%).
+- Highest profit margins from Road Bikes (45.37%) and Mountain Bikes (37.25%).
 
-Low-Performers: Products like socks, vests, and gloves had minimal profit margins and high inventory counts.
+- Low-Performers: Products like socks, vests, and gloves had minimal profit margins and high inventory counts.
 
 ### Actionable Insight:
-Focus marketing on high-profit subcategories, and consider bundling or phasing out low-performing SKUs.
+- Focus marketing on high-profit subcategories, and consider bundling or phasing out low-performing SKUs.
 
 ## 💼 Customer & Product Ledger Overview:
 ![](d3.png)
@@ -68,18 +69,18 @@ Focus marketing on high-profit subcategories, and consider bundling or phasing o
 
 ### Retention Strategy:
     
-Introduce age-specific loyalty programs (especially for the 50+ age group).
-Expand personalised promotions for repeat customers with high order counts.
+- Introduce age-specific loyalty programs (especially for the 50+ age group).
+- Expand personalised promotions for repeat customers with high order counts.
 
 ### Product Optimisation:
 
-Reallocate inventory investment from underperforming SKUs to high-margin products.
-Promote bundles for low-movement accessories to increase the attachment rate.
+- Reallocate inventory investment from underperforming SKUs to high-margin products.
+- Promote bundles for low-movement accessories to increase the attachment rate.
 
 ### Data-Driven Segmentation:
 
-Refine customer segmentation using RFM analysis for deeper targeting.
-Use order history to build predictive models for churn prevention.
+- Refine customer segmentation using RFM analysis for deeper targeting.
+- Use order history to build predictive models for churn prevention.
 
 ## ✅ Conclusion:
 This Power BI dashboard enables strategic decisions by providing a 360-degree view of retail performance, product viability, and customer value. By leveraging customer age and segment behaviour, and aligning product focus based on profitability, stakeholders can drive targeted growth and improved retention outcomes.
