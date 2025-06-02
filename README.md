@@ -7,6 +7,7 @@ This project involved developing an interactive Power BI dashboard designed to p
 ## Data Source
 The dataset for this analysis was curated from a Microsoft SQL database, ensuring data integrity and consistency. The SQL script used for data extraction and transformation (as previously documented in SQLQuery3.sql) leveraged advanced SQL techniques, including Window functions, Common Table Expressions (CTEs), and subqueries to prepare the data for robust analysis.
 The primary tables used in the dashboard are the customer and product report views created in this SQL project. The [dataset link is here](https://github.com/Linconnaire/SQL-Advanced-Data-Analytics-Bike-Store-)
+Also, the csv file is in the file section.
 
 ## Tools Used
 - Microsoft SQL Server: For storage, management, and initial data preparation.
